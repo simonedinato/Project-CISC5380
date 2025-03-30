@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: introduction
+chapters:
+- file: data_retrieval
+- file: data_preprocessing
+- file: exploratory_data_analysis
+- file: supervised

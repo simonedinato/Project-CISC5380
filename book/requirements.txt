@@ -1,0 +1,11 @@
+jupyter-book
+matplotlib
+numpy
+pandas
+sodapy
+requests
+seaborn
+scipy
+scikit-learn
+jupyterlab
+jupytext
